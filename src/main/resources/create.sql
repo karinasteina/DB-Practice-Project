@@ -15,7 +15,7 @@ DROP TABLE IF EXISTS courses;
 -- Create the students table.
     CREATE TABLE IF NOT EXISTS students(
         student_id integer primary key,
-        name text not null,
+        student_name text not null,
         email text not null unique,
         age integer check (age >= 18),
         course_id integer not null references courses(course_id)

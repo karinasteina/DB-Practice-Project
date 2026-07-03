@@ -84,21 +84,21 @@ The output will be printed in the terminal.
 
 ## Student Tasks
 
-### Part 1: `create.sql`
+### Part 1: `create.sql` - DONE
 
 Complete the table creation.
 
 Checklist:
 
-* Create a `courses` table.
-* Create a `students` table.
-* Add a 'primary key' to both tables.
-* Add a 'foreign key' from `students.course_id` to `courses.course_id`.
-* Make student 'name' required.
-* Make student 'email' required and unique.
-* Make student 'age' 18 or older.
-* Make course 'name' required.
-* Make course 'credits' greater than 0.
+* Create a `courses` table. - DONE
+* Create a `students` table. - DONE
+* Add a 'primary key' to both tables. - DONE
+* Add a 'foreign key' from `students.course_id` to `courses.course_id`. - DONE
+* Make student 'name' required. - DONE
+* Make student 'email' required and unique. - DONE
+* Make student 'age' 18 or older. - DONE
+* Make course 'name' required. - DONE
+* Make course 'credits' greater than 0. - DONE
 
 ---
 
