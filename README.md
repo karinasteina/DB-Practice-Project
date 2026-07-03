@@ -104,34 +104,34 @@ Checklist:
 
 ### Part 2: `insert.sql`
 
-Insert data into the tables.
+Insert data into the tables. - DONE
 
 Checklist:
 
-* Insert course data first.
-* Insert 3 courses.
-* Insert 5 students.
-  * Make sure all students are at least 18 years old.
-  * Make sure all emails are unique.
-  * Make sure every student uses a valid course ID.
+* Insert course data first. - DONE
+* Insert 3 courses. - DONE
+* Insert 5 students. - DONE
+  * Make sure all students are at least 18 years old. - DONE
+  * Make sure all emails are unique. - DONE
+  * Make sure every student uses a valid course ID. - DONE
 
 ---
 
-### Part 3: `query.sql`
+### Part 3: `query.sql` - DONE
 
 Practice SQL queries.
 
 Checklist:
 
-* Select all courses.
-* Select all students.
-* Select students older than 20.
-* Show students with their course names using `JOIN`.
-* Count students in each course.
-* Update one student's age.
-* Update one student's course.
-* Delete one student.
-* Show the final result.
+* Select all courses. - DONE
+* Select all students. - DONE
+* Select students older than 20. - DONE
+* Show students with their course names using `JOIN`. - DONE
+* Count students in each course. - DONE
+* Update one student's age. - DONE
+* Update one student's course. - DONE
+* Delete one student. - DONE
+* Show the final result. - DONE
 
 ---
 
